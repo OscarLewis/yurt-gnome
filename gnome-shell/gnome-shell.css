@@ -1,0 +1,14 @@
+@import url("/usr/share/gnome-shell/theme/Yaru/gnome-shell.css");
+
+
+
+.show-apps .show-apps-icon {
+border: none;
+background-image: url("file:////home/oscar/.themes/yurt%20theme/gnome-shell/oscarsactualyurt_green.svg");
+background-size: contain;
+color: transparent; }
+
+.show-apps:hover .show-apps-icon, .show-apps:active .show-apps-icon, .show-apps:checked .show-apps-icon, .show-apps:focus .show-apps-icon {
+color: transparent; 
+background-image: url("file:////home/oscar/.themes/yurt%20theme/gnome-shell/oscarsactualyurt_green.svg");
+background-size: contain; }
